@@ -87,3 +87,6 @@ desktop.ini
 *.db
 *.pid
 *.seed
+
+.s11-domain.json
+.s11-spec.json
